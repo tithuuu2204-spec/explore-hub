@@ -1,0 +1,45 @@
+{
+  "experiences": [
+    {
+      "id": "exp-garba-001",
+      "title": "Traditional Garba Night",
+      "location": "Ahmedabad, Gujarat",
+      "date": "2026-10-20",
+      "time": "8:00 PM - 11:00 PM",
+      "price": 500,
+      "capacity": 100,
+      "category": "Culture",
+      "image": "https://images.unsplash.com/photo-1574052329388-12c5b4e72401?auto=format&fit=crop&q=80&w=800",
+      "description": "Authentic Navratri Garba experience with local artists and traditional music.",
+      "hostName": "ExploreHub Community Hosts"
+    },
+    {
+      "id": "exp-heritage-001",
+      "title": "Old City Heritage Walk",
+      "location": "Ahmedabad, Gujarat",
+      "date": "2026-10-21",
+      "time": "7:00 AM - 10:00 AM",
+      "price": 300,
+      "capacity": 25,
+      "category": "Heritage",
+      "image": "https://images.unsplash.com/photo-1590117075775-654dbdbb534d?auto=format&fit=crop&q=80&w=800",
+      "description": "Explore the UNESCO World Heritage city streets, pols, and hidden architectural gems.",
+      "hostName": "Heritage Walks Ahmedabad"
+    },
+    {
+      "id": "exp-food-001",
+      "title": "Authentic Gujarati Food Tour",
+      "location": "Manek Chowk, Ahmedabad",
+      "date": "2026-10-20",
+      "time": "9:00 PM - 12:00 AM",
+      "price": 800,
+      "capacity": 15,
+      "category": "Food",
+      "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&q=80&w=800",
+      "description": "A guided midnight food walk through the bustling streets of Manek Chowk.",
+      "hostName": "Manek Chowk Food Trails"
+    }
+  ],
+  "bookings": [],
+  "users": []
+}
